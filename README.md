@@ -1,3 +1,6 @@
+![youtube suzuya banner 3](https://github.com/user-attachments/assets/7230a48c-a903-47df-8497-b1d8720600f4)
+<br/>
+<hr>
 # SUZUYA TRADE
 
 ## 🚀 О проекте
