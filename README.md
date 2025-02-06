@@ -1,8 +1,20 @@
-# React + Vite
+![youtube suzuya banner 3](https://github.com/user-attachments/assets/7230a48c-a903-47df-8497-b1d8720600f4)
+<br/>
+<hr>
+# SUZUYA TRADE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 О проекте
+SUZUYA — это проект созданный продвижения онлайн-сервисов купли-продажи игровых предметов в популярных играх **Counter-Strike 2 (CS2)** и **Rust**.
 
-Currently, two official plugins are available:
+Наша цель — обеспечить легкий и безопасный доступ к торговым площадкам, а также предоставить инструменты для аффилиейт-маркетинга, увеличивая охват и вовлечённость целевой аудитории.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💡 Технологии
+- **Frontend:** Vite, React
+- **Backend:** PHP
+- **Дизайн:** Figma, Photoshop
+
+## 🌍 
+Сайт доступен по адресу: [suzuya.trade](https://suzuyatrade.ru)
+
+✨ SUZUYA TRADE — Ваш надёжный партнёр в мире цифровой торговли.
+
