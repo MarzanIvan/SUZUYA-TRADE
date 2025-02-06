@@ -29,6 +29,21 @@ function Footer() {
                                 продавать и обменивать скины CS2. Удобный интерфейс, быстрые сделки и честные цены
                                 делают avan.market отличным выбором для геймеров, ценящих своё время и безопасность.
                                 <br/>
+                                <a id="ref" href="https://bit.ly/suzuya-lis-skins">
+                                    bit.ly/suzuya-lis-skins - сайт lis-skins
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                <br/>
+                    <div className="StaticFooter-mainFooterContainer-Bqa">
+                        <div className="StaticFooter-behanceLinkContainer-qBT">
+                            <div className="descdiv">lis-skins - партнёр для продажи и обмена скинов CS2<br/>
+                                Мы также рекомендуем нашего надёжного партнёра — lis-skins. Здесь вы можете безопасно
+                                покупать, продавать и обменивать скины CS2 с гарантией честных сделок. Удобный
+                                интерфейс, выгодные цены и быстрая обработка транзакций делают lis-skins отличным
+                                выбором для геймеров и трейдеров, ценящих своё время, безопасность и надёжность.
+                                <br/>
                                 <a id="ref" href="bit.ly/3WOXMXx">
                                     bit.ly/3WOXMXx - сайт avan.market
                                 </a>
@@ -77,7 +92,7 @@ function Footer() {
                                     <ul>
                                         <li className="StaticFooter-footerSelectorItems-I6_"><a
                                             className="StaticFooter-footerSelectorLinks-HKF FooterLinks-link-SQa"
-                                            href="http://t.me/dieserpaniker" target="_blank" tabIndex="-1">
+                                            href="https://www.youtube.com/@SUZUYATRADE" target="_blank" tabIndex="-1">
                                             <p className="FooterLinks-text-3wz"><span
                                                 className="FooterLinks-iconContainer-T6h StaticFooter-iconClass-JdV">
                                                 </span>Youtube
@@ -85,7 +100,7 @@ function Footer() {
                                         </a></li>
                                         <li className="StaticFooter-footerSelectorItems-I6_"><a
                                             className="StaticFooter-footerSelectorLinks-HKF FooterLinks-link-SQa"
-                                            href="https://vk.com/ioannweb" target="_blank" tabIndex="-1">
+                                            href="https://rutube.ru/channel/56297444/" target="_blank" tabIndex="-1">
                                             <p className="FooterLinks-text-3wz"><span
                                                 className="FooterLinks-iconContainer-T6h StaticFooter-iconClass-JdV">
                                                 </span>Rutube
@@ -93,7 +108,7 @@ function Footer() {
                                         </a></li>
                                         <li className="StaticFooter-footerSelectorItems-I6_"><a
                                             className="StaticFooter-footerSelectorLinks-HKF FooterLinks-link-SQa"
-                                            href="https://wa.me/79628774982" target="_blank" tabIndex="-1">
+                                            href="https://vk.com/suzuyatrade" target="_blank" tabIndex="-1">
                                             <p className="FooterLinks-text-3wz"><span
                                                 className="FooterLinks-iconContainer-T6h StaticFooter-iconClass-JdV">
                                                 </span>VK video
